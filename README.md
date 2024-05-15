@@ -1,16 +1,30 @@
-### Hi there 👋
+# Derek Bender
+Hello! I'm Derek (he/him)—a senior software engineer working previously at [@instructure](https://github.com/instructure) and [@get-bridge](https://github.com/get-bridge). 
 
-<!--
-**djbender/djbender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My values
+🗝️ trust<br>
+🌟 empathy<br>
+🍏 beginner's mind<br>
+🕵️ testing<br>
+📝 written communication<br>
 
-Here are some ideas to get you started:
+## My specialties
+- Ruby
+  - Rails
+  - Rspec
+  - Capybara
+- Javascript
+  - React
+  - Jest
+  - Cypress
+- Docker
+- Nix
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# New language interests
+- Rust
+- Go
+- Clojure
+
+## Get in touch
+- Website: https://djbender.com
+- LinkedIn: https://www.linkedin.com/in/derek-bender/
