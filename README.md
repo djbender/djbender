@@ -24,6 +24,7 @@ Hello! I'm Derek (he/him)—a senior software engineer working previously at [@i
 - Rust
 - Go
 - Clojure
+- Elixir
 
 ## Get in touch
 - Website: https://djbender.com
