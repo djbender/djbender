@@ -1,5 +1,5 @@
 # Derek Bender
-Hello! I'm Derek (he/him)—a senior software engineer working previously at [@instructure](https://github.com/instructure) and [@get-bridge](https://github.com/get-bridge). 
+Hello! I'm Derek (he/him)—a senior software engineer at [@greatschools](https://github.com/greatschools) and previously at [@instructure](https://github.com/instructure) and [@get-bridge](https://github.com/get-bridge). 
 
 ## My values
 🗝️ trust<br>
