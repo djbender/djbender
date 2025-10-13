@@ -1,5 +1,5 @@
 # Derek Bender
-Hello! I'm Derek (he/him)—a senior software engineer at [Mindr](https://www.mindrglobal.com) and previously at [@instructure](https://github.com/instructure), [@get-bridge](https://github.com/get-bridge), and [@greatschools](https://github.com/greatschools). 
+Hello! I'm Derek (he/him)—a senior software engineer! Previously at [@instructure](https://github.com/instructure), [@get-bridge](https://github.com/get-bridge), and [@greatschools](https://github.com/greatschools). 
 
 ## My values
 🗝️ trust<br>
