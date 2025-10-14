@@ -20,7 +20,7 @@ Hello! I'm Derek (he/him)—a senior software engineer! Previously at [@instruct
 - Docker
 - Nix
 
-# New language interests
+## New language interests
 - C
 - Rust
 - Go
