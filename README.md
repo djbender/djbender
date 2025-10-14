@@ -21,6 +21,7 @@ Hello! I'm Derek (he/him)—a senior software engineer! Previously at [@instruct
 - Nix
 
 # New language interests
+- C
 - Rust
 - Go
 - Clojure
