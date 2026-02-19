@@ -2,11 +2,9 @@
 
 **Senior Software Engineer** · Building reliable software with empathy and a beginner's mind.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-derek--bender-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/derek-bender/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-derek--bender-0A66C2?style=flat)](https://www.linkedin.com/in/derek-bender/)
 [![Website](https://img.shields.io/badge/Website-djbender.com-000?style=flat&logo=safari)](https://djbender.com)
-[![Pronouns](https://img.shields.io/badge/pronouns-he%2Fhim-blueviolet?style=flat)](https://pronoun.is/he)
-
----
+[![Pronouns](https://img.shields.io/badge/💬_pronouns-he%2Fhim-blueviolet?style=flat)](https://pronoun.is/he)
 
 Previously at [@instructure](https://github.com/instructure), [@get-bridge](https://github.com/get-bridge), and [@greatschools](https://github.com/greatschools).
 
@@ -17,30 +15,105 @@ Previously at [@instructure](https://github.com/instructure), [@get-bridge](http
   <img src="profile/top-langs.svg" alt="Top Languages" height="170" />
 </p>
 
-## My Values
+---
+
+## Values
 
 🗝️ trust · 🌟 empathy · 🍏 beginner's mind · 🕵️ testing · 📝 written communication
 
-## My Specialties
+---
+
+## Specialties
 
 ### Languages & Frameworks
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-D30001?style=flat&logo=rubyonrails&logoColor=white)
+![Sinatra](https://img.shields.io/badge/Sinatra-000?style=flat&logo=rubysinatra&logoColor=white)
+![Hanami](https://img.shields.io/badge/🌸_Hanami-FF6347?style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Stimulus](https://img.shields.io/badge/Stimulus-77E8B9?style=flat&logo=stimulus&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Valkey](https://img.shields.io/badge/Valkey-FF6600?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA3MyI+PHBhdGggZmlsbD0id2hpdGUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTEzLjQ4MiA2MC42OTVMLjk5OCA1Mi44ODRWMTkuNTAzTDMxLjUyOCAybDI5Ljc5IDE3LjUzMnYzNS4xMTNMMzEuMDU1IDcxLjY5bC0xMC41MDctNi41NzRWNTEuMDQxdi0xLjkyMWwtNS42OTctMy41NjVWMjcuNDUzbDE2LjQ5NS05LjQ1NiAxNi4xMTggOS40ODV2MTguOTdsLTEyLjc2MSA3LjE4NnYtNy42NGMzLjgyNS0xLjQ3MyA2LjU3MS01LjI1OSA2LjU3MS05LjcyOCAwLTUuNzYtNC41NjItMTAuMzg2LTEwLjExNi0xMC4zODYtNS41NTUgMC0xMC4xMTcgNC42MjYtMTAuMTE3IDEwLjM4NiAwIDQuNDY5IDIuNzQ2IDguMjU2IDYuNTcxIDkuNzI4djE0LjQ3NWwzLjY0OSAyLjI4MyAyMi4zNzQtMTIuNjAyVjIzLjkyNUwzMS40NzcgMTAuODg1IDguNjggMjMuOTU0djI0LjY3NWw0LjgwMiAzLjAwNHY5LjA2MnpNMzEuMTU4IDMxLjQ5OGMyLjUxNCAwIDQuNTAyIDIuMTY2IDQuNTAyIDQuNzcycy0xLjk4OCA0Ljc3Mi00LjUwMiA0Ljc3MmMtMi41MTQgMC00LjUwMy0yLjE2Ni00LjUwMy00Ljc3MnMxLjk4OS00Ljc3MiA0LjUwMy00Ljc3MnoiLz48L3N2Zz4=)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Memcached](https://img.shields.io/badge/⚡_Memcached-555?style=flat)
 
 ### Testing
 
-![RSpec](https://img.shields.io/badge/RSpec-FF3366?style=flat&logo=ruby&logoColor=white)
-![Capybara](https://img.shields.io/badge/Capybara-6B2D5B?style=flat)
+![RSpec](https://img.shields.io/badge/🧪_RSpec-FF3366?style=flat)
+![Capybara](https://img.shields.io/badge/🦫_Capybara-6B2D5B?style=flat)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=black)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white)
 
-### Tools & Infrastructure
+### Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Sidekiq](https://img.shields.io/badge/Sidekiq-B1003E?style=flat&logo=sidekiq&logoColor=white)
+
+### CI/CD
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+### Cloud & Networking
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=icloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJ3aGl0ZSIgc3R5bGU9Im9wYWNpdHk6MTsiPjxwYXRoICBkPSJNMTkuMTcgMkg0LjgzQTEuNzkgMS43OSAwIDAgMCAzIDMuOHYxNi40QTEuNzkgMS43OSAwIDAgMCA0LjgzIDIyaDE0LjM0QTEuOCAxLjggMCAwIDAgMjEgMjAuMlYzLjhBMS44IDEuOCAwIDAgMCAxOS4xNyAyTTIwIDIwLjJhLjguOCAwIDAgMS0uODEuOEg0LjgzYS43OS43OSAwIDAgMS0uOC0uOFYzLjhhLjc5Ljc5IDAgMCAxIC44LS44aDE0LjM0YS44LjggMCAwIDEgLjgxLjh6Ii8+PHBhdGggIGQ9Im03LjUzIDE5bDIuMjUtMmwtMi4yNS0yem01LjY5LTlhMTIgMTIgMCAwIDAtMy43NS43VjVoLTJ2OC42NUw4Ljg4IDEzYTEyLjMgMTIuMyAwIDAgMSA0LjI5LTFjMSAwIDEuMjUuNTUgMS4yNSAxLjA1djZoMlYxM2EyLjY4IDIuNjggMCAwIDAtLjgtMi4xYTMuMjcgMy4yNyAwIDAgMC0yLjQtLjlNMTMgOC4yNWgyQTUuOSA1LjkgMCAwIDAgMTYuNDcgNWgtMkE3LjIgNy4yIDAgMCAxIDEzIDguMjUiLz48L3N2Zz4=)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
+![Dokku](https://img.shields.io/badge/🚀_Dokku-1B7AED?style=flat)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+
+### Observability
+
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=flat&logo=newrelic&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?style=flat&logo=opentelemetry&logoColor=white)
+
+### Dev Environment
+
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white)
+![WezTerm](https://img.shields.io/badge/WezTerm-4E49EE?style=flat&logo=wezterm&logoColor=white)
+
+---
+
+### Interests
+
+![Homelab](https://img.shields.io/badge/Homelab-555?style=flat&logo=homeassistant&logoColor=white)
+![Data Archival](https://img.shields.io/badge/Data_Archival-555?style=flat&logo=internetarchive&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-555?style=flat&logo=opensourceinitiative&logoColor=white)
+![Mentoring](https://img.shields.io/badge/🎓_Mentoring-555?style=flat)
+![Self-hosting](https://img.shields.io/badge/🖥️_Self--hosting-555?style=flat)
+![Home Automation](https://img.shields.io/badge/🏠_Home_Automation-555?style=flat)
+![Privacy/Security](https://img.shields.io/badge/Privacy%2FSecurity-555?style=flat&logo=letsencrypt&logoColor=white)
+
+---
 
 ## New Language Interests
 
