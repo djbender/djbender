@@ -105,7 +105,7 @@ Previously at [@instructure](https://github.com/instructure), [@get-bridge](http
 
 ### Interests
 
-[![Homelab](https://img.shields.io/badge/Homelab-555?style=flat&logo=homeassistant&logoColor=white)](https://www.reddit.com/r/homelab/)
+[![Homelab](https://img.shields.io/badge/🔌_Homelab-555?style=flat)](https://www.reddit.com/r/homelab/)
 [![Self-hosting](https://img.shields.io/badge/🖥️_Self--hosting-555?style=flat)](https://www.reddit.com/r/selfhosted/)
 [![Home Automation](https://img.shields.io/badge/🏠_Home_Automation-555?style=flat)](https://www.home-assistant.io/)
 [![Data Archival](https://img.shields.io/badge/Data_Archival-555?style=flat&logo=internetarchive&logoColor=white)](https://archive.org/)
