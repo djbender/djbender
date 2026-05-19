@@ -1,6 +1,6 @@
 # Derek Bender
 
-**Senior Software Engineer** · Building reliable software with empathy and a beginner's mind.
+**Senior Software Engineer** at [@SRS-Acquiom](https://github.com/srs-acquiom) · Building reliable software with empathy and a beginner's mind.
 
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-derek--bender-0A66C2?style=flat)](https://www.linkedin.com/in/derek-bender/)
 [![Website](https://img.shields.io/badge/Website-djbender.com-000?style=flat&logo=safari)](https://djbender.com)
